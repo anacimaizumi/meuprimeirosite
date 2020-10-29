@@ -9,6 +9,24 @@ h1, h2 {
     color: #8700D1
 }
 
+#episodios {
+    margin-top: 20mm;
+}
+
 ul {
-    list-style-type: none
+    position: fixed;
+    list-style-type: none;
+}
+
+li {
+    font-family: 'Merriweather', serif;
+    margin-left: 10mm;
+    margin-right: 10mm;
+    display: inline;
+    background-color: whitesmoke;
+}
+
+header { 
+    background-color: whitesmoke;
+    text-align: center
 }

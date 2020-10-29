@@ -4,7 +4,7 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
-h1, h2 {
+h1, h2, footer, a{
     font-family: 'Merriweather', serif;
     color: #8700D1
 }
@@ -34,4 +34,17 @@ li {
 header { 
     background-color: whitesmoke;
     text-align: center
+}
+
+footer {
+    background-color: #560085;
+    color: whitesmoke
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+.fab {
+    color:whitesmoke
 }

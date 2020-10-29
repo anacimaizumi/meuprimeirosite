@@ -4,6 +4,13 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
+.titulo {
+    background-color: #3a50d9;
+    color: #e0eff2;
+    font: italic bold 100px 'Merriweather', Serif;
+    text-shadow: -4px 3px 0 #3a50d9, -14px 7px 0 #0a0e27;
+  }
+
 h1, h2, footer, a{
     font-family: 'Merriweather', serif;
     color: #8700D1
@@ -24,8 +31,8 @@ ul {
 
 li {
     font-family: 'Merriweather', serif;
-    margin-left: 10mm;
-    margin-right: 10mm;
+    margin-left: 5mm;
+    margin-right: 5mm;
     display: inline;
     background-color: whitesmoke;
 }

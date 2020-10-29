@@ -13,6 +13,11 @@ h1, h2 {
     margin-top: 20mm;
 }
 
+#img {
+        border-style: solid;
+        border-color: red;
+      }
+
 ul {
     position: fixed;
     list-style-type: none;

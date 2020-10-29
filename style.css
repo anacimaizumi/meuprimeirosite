@@ -13,9 +13,8 @@ h1, h2, footer, a{
     margin-top: 20mm;
 }
 
-#img {
-        border-style: solid;
-        border-color: red;
+section:hover {
+        background-color: yellow;
       }
 
 ul {

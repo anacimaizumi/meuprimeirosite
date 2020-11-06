@@ -2,6 +2,28 @@ body{
     color:black;
     background-color: #ACD115;
     font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+}
+
+div {
+    position: fixed bottom;
+    display: block;
+    background-color: whitesmoke;
+    font-family: 'Merriweather', serif;
+    margin: 0px
+}
+
+li{
+    display: inline;
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none
 }
 
 .titulo {
@@ -12,32 +34,18 @@ body{
   }
 
 h1, h2, footer, a{
+    margin: 0px;
     font-family: 'Merriweather', serif;
     color: #8700D1
-}
-
-#episodios {
-    margin-top: 20mm;
 }
 
 section:hover {
         background-color: yellow;
       }
 
-ul {
-    position: fixed;
-    list-style-type: none;
-}
-
-li {
-    font-family: 'Merriweather', serif;
-    margin-left: 5mm;
-    margin-right: 5mm;
-    display: inline;
-    background-color: whitesmoke;
-}
-
 header { 
+    margin: 0px;
+    padding: 0px;
     background-color: whitesmoke;
     text-align: center
 }
@@ -53,6 +61,14 @@ a:link {
 
 .fab {
     color:whitesmoke
+}
+
+.img {
+    margin-left: 10px; margin-right: 10px; border-style: solid; border-color: #485221
+}
+
+.img1 {
+    margin-right: 10px; border-style: solid; border-color: #485221
 }
 
 .boxshadow {
